@@ -1,0 +1,7 @@
+iniconfig==2.3.0
+loguru==0.7.3
+orjson==3.11.3
+packaging==25.0
+pluggy==1.6.0
+pytest==8.4.2
+scapy==2.6.1
